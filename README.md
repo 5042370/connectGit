@@ -6,4 +6,7 @@
 4. git push -u c master (push)
 
 -- modify & commit --
-0.
+0. .gitignore setting
+(git rm -r --cached .
+ git add .
+ git commit)
